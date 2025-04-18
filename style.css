@@ -11,6 +11,7 @@ body{
     flex-direction: column;
     justify-content: space-between;
     height: 65rem;
+    background-color: yellow;
 }
 
 header{
@@ -19,38 +20,60 @@ header{
     width: 100%;
     position: fixed;
     top: 0;
+    z-index: 2;
 }
 
-main{
+main {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; /* necesario para que .color-change absoluta se posicione respecto a este */
+    flex: 1;
+}
+
+.main-wrapper {
+    position: relative;
+    width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+
 .me{
-    height: 50%;
-    width: 22%;
+    height: 100%;
+    width: 45%;
     background-color: aqua;
 }
 
 .about-me{
     color: white;
     background-color: black;
-    height: 50%;
-    width: 30%;
+    height: 100%;
+    width: 55%;
 }
 
-.color-change{
-    position: fixed;
-    z-index: -1;
+
+.color-change {
     background-color: salmon;
-    height: 100%;
-    width: 40%;
+    position: absolute;
+    top: 0;
     left: 0;
+    width: 40%;
+    height: 100%;
+    z-index: -1; /* para que quede detrás de .me y .about-me */
 }
 
 footer{
     height: 6rem;
-    background-color: yellow;
+    background-color: white;
+}
+
+.box{
+    display: flex;
+    background-color: white;
+    height: 34rem;
+    width: 40rem;
 }
