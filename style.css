@@ -138,10 +138,29 @@ footer{
     align-items: center;
 }
 
+footer *{
+    margin: 0 0.5rem;
+}
+
+.footer_box{
+    text-align: center;
+    width: 12rem;
+}
+
+.footer_box span{
+    font-weight: bold;
+}
+
+.right_side{
+    display: flex;
+    width: 20%;
+}
+
 .box{
     display: flex;
     background-color: white;
     height: 34rem;
     width: 44rem;
     margin-right: 6rem;
+    flex-shrink: 0;
 }
