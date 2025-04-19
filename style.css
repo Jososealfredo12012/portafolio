@@ -23,6 +23,7 @@ header{
     z-index: 2;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 nav{
@@ -33,10 +34,16 @@ nav{
     align-items: baseline;
 }
 
+nav h1{
+    min-width: 29.125rem;
+}
+
 .about{
     display: flex;
     justify-content: space-between;
     width: 28rem;
+    margin-right: 2rem;
+    min-width: 28rem;
 }
 
 .nombre{
@@ -80,10 +87,6 @@ main {
 
 .me *{
     margin-top: 2rem;
-}
-
-.me h3 .titulo{
-    justify-content: center;
 }
 
 .foto_personal{
