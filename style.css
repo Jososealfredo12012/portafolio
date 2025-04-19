@@ -72,6 +72,31 @@ main {
     height: 100%;
     width: 45%;
     background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.me *{
+    margin-top: 2rem;
+}
+
+.me h3 .titulo{
+    justify-content: center;
+}
+
+.foto_personal{
+    border-radius: 100%;
+    width: 13rem;
+    margin-top: 2rem;
+}
+
+.socials{
+    background-color: white;
+    height: 4rem;
+    width: 100%;
+    margin-top: auto;
 }
 
 .about-me{
