@@ -85,6 +85,16 @@ main {
     align-items: center;
 }
 
+.me .name{
+    text-align: center;
+    width: 6rem;
+}
+
+.me hr{
+    width: 40%;
+    background-color: black; height: 1px; border: 0;
+}
+
 .me *{
     margin-top: 2rem;
 }
@@ -123,6 +133,9 @@ main {
 footer{
     height: 6rem;
     background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .box{
