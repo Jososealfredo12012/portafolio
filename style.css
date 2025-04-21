@@ -28,10 +28,14 @@ header{
     justify-content: space-between;
 }
 
+.name{
+    width: auto;
+    min-width: 40rem;
+}
+
 nav{
     display: flex;
-    width: 100%;
-    margin: 0 2rem;
+    width: auto;
     justify-content: space-between;
     align-items: baseline;
 }
@@ -44,7 +48,6 @@ nav h1{
     display: flex;
     justify-content: space-between;
     width: 28rem;
-    margin-right: 2rem;
     min-width: 28rem;
 }
 
@@ -187,4 +190,21 @@ footer *{
     width: 44rem;
     margin-right: 6rem;
     flex-shrink: 0;
+}
+
+.about ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.active{
+    color: dodgerblue;
 }
