@@ -28,6 +28,10 @@ header{
     justify-content: space-between;
 }
 
+header .name{
+    margin-left: 1rem;
+}
+
 .name{
     width: auto;
     min-width: 40rem;
@@ -69,90 +73,14 @@ main {
     flex: 1;
 }
 
-.main-wrapper {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.me{
-    height: 100%;
-    width: 45%;
-    background-color: hsl(31, 38%, 90%);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
-}
-
-.me .titulo{
-    text-align: center;
-}
-
-.me .name{
-    text-align: center;
-    width: 6rem;
-}
-
-.me hr{
-    width: 40%;
-    background-color: black; height: 1px; border: 0;
-}
-
-.me *{
-    margin-top: 2rem;
-}
-
-.foto_personal{
-    border-radius: 100%;
-    width: 13rem;
-    margin-top: 2rem;
-}
-
-.socials{
-    background-color: white;
-    height: 3rem;
-    width: 100%;
-    margin-top: auto;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-.socials img{
-    width: 2rem;
-    height: 2rem;
-    margin: 0;
-}
-
-.socials a{
-    margin: 0;
-}
-
-.about-me{
-    color: blackg;
-    background-color: rgba(241, 241, 241, 1);
-    height: 100%;
-    width: 55%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: justify;
-}
-
-
 .color-change {
     background-color: hsl(31, 38%, 79%);
     position: absolute;
     top: 0;
     left: 0;
-    width: 40%;
+    width: 100%;
     height: 100%;
-    z-index: -1; /* para que quede detrás de .me y .about-me */
+    z-index: -1; 
 }
 
 footer{
@@ -183,14 +111,7 @@ footer *{
     margin-right: 2rem;
 }
 
-.box{
-    display: flex;
-    background-color: white;
-    height: 34rem;
-    width: 44rem;
-    margin-right: 6rem;
-    flex-shrink: 0;
-}
+
 
 .about ul{
     list-style: none;
