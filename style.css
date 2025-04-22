@@ -209,6 +209,10 @@ a{
     color: black;
 }
 
+a:hover{
+    color: dodgerblue;
+}
+
 .active{
     color: dodgerblue;
 }
