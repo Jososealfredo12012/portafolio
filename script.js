@@ -12,6 +12,8 @@ function nose(){
     });
 }
 
+nose(); // Llamar a la función al cargar la página
+
 // Ejecutar después de cada transición
 swup.hooks.on('page:view', () => {
     nose();
