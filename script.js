@@ -12,9 +12,6 @@ function nose(){
     });
 }
 
-// Ejecutar al cargar la página por primera vez
-nose();
-
 // Ejecutar después de cada transición
 swup.hooks.on('page:view', () => {
     nose();
