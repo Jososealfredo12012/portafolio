@@ -328,10 +328,12 @@ main {
 }
 
 
+
 .button-58:hover {
   background-color: #3385ff;
   border-color: #3385ff;
   fill: #06f;
+  color: #8b9fbd;
 }
 
 .button-58:active {
