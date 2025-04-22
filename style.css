@@ -238,3 +238,8 @@ html.is-changing .transition-fade {
     opacity: 0;
   }
   
+.container{
+    margin-top: 6rem;
+    width: 50%;
+    height: 90%;
+}
