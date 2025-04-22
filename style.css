@@ -222,3 +222,15 @@ a{
     height: 100%;
     z-index: -1; /* para que quede detrás de .me y .about-me */
 }
+
+/* Define a transition duration during page visits */
+html.is-changing .transition-fade {
+    transition: opacity 0.25s;
+    opacity: 1;
+  }
+  
+  /* Define the styles for the unloaded pages */
+  html.is-animating .transition-fade {
+    opacity: 0;
+  }
+  
