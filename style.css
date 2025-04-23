@@ -152,6 +152,16 @@ nav h1 {
   text-align: justify;
 }
 
+.about-me h4 {
+  font-size: 4rem;
+  margin-top: 2rem;
+}
+
+.about-me p {
+  font-size: 1rem;
+  margin: 0 3rem;
+}
+
 .color-change {
   background-color: hsl(31, 38%, 79%);
   position: absolute;
