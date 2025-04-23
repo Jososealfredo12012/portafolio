@@ -349,3 +349,20 @@ main {
     min-width: 170px;
   }
 }
+
+@media (max-width: 1080px) {
+  header h1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .slash{
+    display: none;
+  }
+
+  header .name {
+    width: 1rem;
+    min-width: 20.95rem;
+  }
+}
