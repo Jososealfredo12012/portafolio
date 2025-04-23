@@ -519,7 +519,7 @@ main {
   }
 
   .proyects-container{
-    width: 90%;
+    width: 85%;
   }
 
   .container{
@@ -527,4 +527,22 @@ main {
     height: 100%;
   }
   
+  .contenido h4{
+    font-size: 2rem;
+    margin: 0 1rem;
+  }
+
+  .contenido p{
+    margin: 0 1rem;
+    font-size: 1.2rem;
+    text-align: justify;
+  }
+
+  .botones{
+    display: flex;
+  }
+
+  .botones a{
+    margin: 0 1rem;
+  }
 }
