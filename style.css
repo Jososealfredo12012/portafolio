@@ -142,7 +142,6 @@ nav h1 {
 }
 
 .about-me {
-  color: blackg;
   background-color: rgba(241, 241, 241, 1);
   height: 100%;
   width: 55%;
@@ -153,12 +152,13 @@ nav h1 {
 }
 
 .about-me h4 {
-  font-size: 4rem;
-  margin-top: 2rem;
+  font-size: 3rem;
+  margin: 2rem;
+  text-align: justify;
 }
 
 .about-me p {
-  font-size: 1rem;
+  font-size: 1.3rem;
   margin: 0 3rem;
 }
 
@@ -473,7 +473,7 @@ main {
   }
 
   .about-me p{
-    font-size: 1rem;
+    font-size: 1.25rem;
     margin: 0 1rem;
   }
 
