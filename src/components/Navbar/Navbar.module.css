@@ -67,7 +67,7 @@
     background: rgb(25, 55, 109);
     background: linear-gradient(
       0deg,
-      rgba(25, 55, 109, 0.2) 0%,
+      rgba(25, 55, 109, 0.7) 0%,
       rgba(25, 55, 109, 1) 100%
     );
     padding: 24px 33px;

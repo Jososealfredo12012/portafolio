@@ -51,6 +51,7 @@
 }
 
 .heroImg {
+  min-width: 300px;
   width: 50%;
   z-index: 1;
   border-radius: 100%;
@@ -101,4 +102,14 @@
   background: rgba(22, 55, 109, 0.4);
   filter: blur(100px);
   z-index: 0;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .content{
+    align-items: center;
+  }
 }
