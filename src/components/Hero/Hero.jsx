@@ -7,7 +7,15 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Jose</h1>
-        <p className={styles.description}>breve decripcion Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi distinctio perferendis numquam labore, rem quaerat.</p>
+        <p className={styles.description}>
+          Computer Science student at APEC with a strong foundation in
+          cybersecurity and a growing passion for front-end development.
+          Proficient in HTML, CSS, JavaScript, and React. Actively building
+          projects to strengthen my skills and transition fully into web
+          development. I also have hands-on experience with computer hardware
+          assembling, maintaining, and troubleshooting systems which adds to my
+          problem-solving mindset and technical versatility.
+        </p>
         <a
           href='mailto:josealfredo.066@gmail.com'
           className={styles.contactBtn}>

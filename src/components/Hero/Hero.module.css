@@ -13,6 +13,7 @@
 
 .content {
   display: flex;
+  text-align: justify;
   flex-direction: column;
   align-items: flex-start;
   color: var(--color-text);
@@ -51,12 +52,12 @@
 }
 
 .heroImg {
-  min-width: 300px;
-  width: 50%;
+  min-width: 400px;
+  width: 80%;
   z-index: 1;
   border-radius: 100%;
   margin: 10px;
-
+  margin-left: 100px;
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -107,6 +108,14 @@
 @media (max-width: 768px) {
   .container {
     flex-direction: column-reverse;
+  }
+
+  .heroImg{
+    margin: 0;
+  }
+
+  .content{
+    text-align: center;
   }
 
   .content{
