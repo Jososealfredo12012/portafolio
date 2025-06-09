@@ -1,22 +1,22 @@
 [
     {
         "title": "HTML",
-        "imageSrc": "skills/html.png"
+        "imageSrc": "img/skills/html.png"
     },
     {
         "title": "CSS",
-        "imageSrc": "skills/css.png"
+        "imageSrc": "img/skills/css.png"
     },
     {
         "title": "JavaScript",
-        "imageSrc": "skills/javaScript.png"
+        "imageSrc": "img/skills/JavaScript.png"
     },
     {
         "title": "Node",
-        "imageSrc": "skills/node.png"
+        "imageSrc": "img/skills/node.png"
     },
     {
         "title": "React",
-        "imageSrc": "skills/react.png"
+        "imageSrc": "img/skills/react.png"
     }
 ]

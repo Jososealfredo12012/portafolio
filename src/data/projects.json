@@ -1,7 +1,7 @@
 [
   {
     "title": "Flix-app",
-    "imageSrc": "projects/flix-app.png",
+    "imageSrc": "img/projects/flix-app.png",
     "description": "Movie/Series Catalog explorer using TMDB Api",
     "skills": ["CSS", "HTML", "JavaScript"],
     "demo": "https://flix-app-beta.vercel.app/",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Investment-calculator",
-    "imageSrc": "projects/investment-calculator.png",
+    "imageSrc": "img/projects/investment-calculator.png",
     "description": "Investment calculator build in React",
     "skills": ["React", "CSS", "Node"],
     "demo": "https://investment-calculator-three-pi.vercel.app/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Tracalorie",
-    "imageSrc": "projects/tracalorie.png",
+    "imageSrc": "img/projects/tracalorie.png",
     "description": "Project for tracking calories built with JavaScript and HTML",
     "skills": ["JavaScript", "HTML"],
     "demo": "https://tracalorie-webpack-omega.vercel.app/",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Leno-website",
-    "imageSrc": "projects/leno-website.png",
+    "imageSrc": "img/projects/leno-website.png",
     "description": "Landing page for a made-up app",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://leno-website-alpha.vercel.app/",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Shopping-list",
-    "imageSrc": "projects/shopping-list.png",
+    "imageSrc": "img/projects/shopping-list.png",
     "description": "Simple Shopping List website",
     "skills": ["JavaScript", "HTML", "CSS"],
     "demo": "https://shopping-list-pink-three.vercel.app/",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Tutor",
-    "imageSrc": "projects/tutor-website.png",
+    "imageSrc": "img/projects/tutor-website.png",
     "description": "Landing page for a made up course about making courses",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://tutor-website-alpha-three.vercel.app/",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Random Ideas",
-    "imageSrc": "projects/random-ideas.png",
+    "imageSrc": "img/projects/Random-Ideas.png",
     "description": "Full-stack app to upload ideas into a database to retrive later",
     "skills": ["JavaScript", "CSS", "HTML"],
     "demo": "https://randomideas-48bj.onrender.com/",
@@ -57,10 +57,10 @@
   },
   {
     "title": "Personal Portafolio",
-    "imageSrc": "projects/Portafolio.png",
+    "imageSrc": "img/projects/Portafolio.png",
     "description": "Personal portafolio to showcase projects",
     "skills": ["React", "Node"],
-    "demo": "https",
-    "source": "https"
+    "demo": "https://portafolio-tau-sable.vercel.app/",
+    "source": "https://github.com/Jososealfredo12012/portafolio"
   }
 ]
