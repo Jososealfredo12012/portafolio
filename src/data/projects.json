@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  },
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https",
+    "source": "https"
+  }
+]
