@@ -89,6 +89,7 @@
   background: rgba(22, 55, 109, 0.4);
   filter: blur(100px);
   z-index: 0;
+
 }
 
 .bottomBlur {
