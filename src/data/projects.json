@@ -1,65 +1,65 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https",
-    "source": "https"
+    "title": "Flix-app",
+    "imageSrc": "projects/flix-app.png",
+    "description": "Movie/Series Catalog explorer using TMDB Api",
+    "skills": ["CSS", "HTML", "JavaScript"],
+    "demo": "https://flix-app-beta.vercel.app/",
+    "source": "https://github.com/Jososealfredo12012/flix-app"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https",
-    "source": "https"
+    "title": "Investment-calculator",
+    "imageSrc": "projects/investment-calculator.png",
+    "description": "Investment calculator build in React",
+    "skills": ["React", "CSS", "Node"],
+    "demo": "https://investment-calculator-three-pi.vercel.app/",
+    "source": "https://github.com/Jososealfredo12012/Investment-calculator"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https",
-    "source": "https"
+    "title": "Tracalorie",
+    "imageSrc": "projects/tracalorie.png",
+    "description": "Project for tracking calories built with JavaScript and HTML",
+    "skills": ["JavaScript", "HTML"],
+    "demo": "https://tracalorie-webpack-omega.vercel.app/",
+    "source": "https://github.com/Jososealfredo12012/tracalorie-webpack"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https",
-    "source": "https"
+    "title": "Leno-website",
+    "imageSrc": "projects/leno-website.png",
+    "description": "Landing page for a made-up app",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://leno-website-alpha.vercel.app/",
+    "source": "https://github.com/Jososealfredo12012/leno-website"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https",
-    "source": "https"
+    "title": "Shopping-list",
+    "imageSrc": "projects/shopping-list.png",
+    "description": "Simple Shopping List website",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://shopping-list-pink-three.vercel.app/",
+    "source": "https://github.com/Jososealfredo12012/shopping-list"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https",
-    "source": "https"
+    "title": "Tutor",
+    "imageSrc": "projects/tutor-website.png",
+    "description": "Landing page for a made up course about making courses",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://tutor-website-alpha-three.vercel.app/",
+    "source": "https://github.com/Jososealfredo12012/tutor-website"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https",
-    "source": "https"
+    "title": "Random Ideas",
+    "imageSrc": "projects/random-ideas.png",
+    "description": "Full-stack app to upload ideas into a database to retrive later",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://randomideas-48bj.onrender.com/",
+    "source": "https://github.com/Jososealfredo12012/randomideas/tree/main"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project",
-    "skills": ["React", "Express", "Node"],
+    "title": "Personal Portafolio",
+    "imageSrc": "projects/Portafolio.png",
+    "description": "Personal portafolio to showcase projects",
+    "skills": ["React", "Node"],
     "demo": "https",
     "source": "https"
   }
