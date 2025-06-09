@@ -34,6 +34,11 @@
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
+    transition: ease-in-out 0.2s;
+
+    &:hover{
+      color: rgb(0, 0, 116);
+    }
   }
 }
 
